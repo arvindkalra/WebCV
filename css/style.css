@@ -220,13 +220,17 @@ ul.address li ul.address-text li:nth-child(1) {
 }
 ul.address li ul.address-text li {
     display: inline-block;
-    color: #fff;
     margin-top: 1em;
     font-weight: 100;
 }
 ul.address li ul.address-text li a {
-    color: #fff;
     text-decoration: none;
+}
+.value{
+    color: #000;
+}
+.key{
+    color: #1a237e;
 }
 ul.address li ul.address-text li a:hover{
     color: #212121;
