@@ -415,9 +415,9 @@ ul.address li ul.address-text li a:hover{
 	line-height:2em;
 }
 .agile_model {
-    margin: 3em 0 0;
+
 }
-.agileits_agile_about_blog:nth-child(3){
+.agileits_agile_about_blog{
 	margin:2em 0 0;
 }
 /*-- portfolio --*/
