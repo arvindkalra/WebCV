@@ -142,9 +142,16 @@ h2.resp-accordion {
 	width:30px;
 	height:30px;
 }
+.wthree_tab_content_pos1 ul li a i{
+    display: inline-block;
+}
 .wthree_tab_content_pos1 ul li a.facebook{
 	background:url(../images/img-sp.png) no-repeat -75px -33px #3b5998;
 	display:block;
+}
+.wthree_tab_content_pos1 ul li a.git{
+    background: #ffffff;
+    display:block;
 }
 .wthree_tab_content_pos1 ul li a.twitter{
 	background:url(../images/img-sp.png) no-repeat 1px -33px #55acee;
