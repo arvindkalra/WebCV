@@ -1,4 +1,4 @@
-**Arvind Kalra**
+# Arvind Kalra
 
 This is a pure front-end WebApplication. Using HTML, CSS, JQuery.
 It is a interacive WebCV hosted on github.
