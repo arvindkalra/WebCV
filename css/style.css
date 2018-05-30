@@ -161,6 +161,12 @@ h2.resp-accordion {
 	background:url(../images/img-sp.png) no-repeat -38px -34px #dd4b39;
 	display:block;
 }
+.wthree_tab_content_pos1 ul li img.in{
+    display: block;
+    margin-left: 0px;
+    height: 30px;
+    width: 30px;
+    background: white}
 .wthree_tab_content_pos1 ul li a.facebook:hover{
 	background:url(../images/img-sp.png) no-repeat -75px -33px #2C4374;
 	display:block;
