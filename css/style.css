@@ -22,7 +22,7 @@ p{
 	margin:0;
 }
 p,ul li,ol li{
-	font-size:14px;
+	font-size:17px;
 }
 h1,h2,h3,h4,h5,h6{
 	font-family: 'Lato', sans-serif;
@@ -333,7 +333,7 @@ ul.address li ul.address-text li a:hover{
 	top:0%;
 	left:5%;
 }
-.bar p{ 
+.bar p{
 	color: #212121;
     font-size: 13px;
 	text-transform:uppercase;
@@ -693,7 +693,7 @@ ul.address li ul.address-text li a:hover{
 		font-size: 13px;
 	}
 	.agileinfo_map_color {
-		left: 5%;	
+		left: 5%;
 	}
 }
 @media (max-width: 800px){
